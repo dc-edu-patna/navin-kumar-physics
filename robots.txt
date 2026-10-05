@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://er-navin-kumar.com/sitemap.xml
