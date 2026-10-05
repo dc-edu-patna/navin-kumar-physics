@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://er-navin-kumar.com/sitemap.xml
+# Sitemap Location
+Sitemap: https://www.doubtcomm.in/sitemap.xml
